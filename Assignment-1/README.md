@@ -1,8 +1,6 @@
-## Assignment 1: SQL Assignment, CMSC424, Spring 2024 (Part 1)
+## Assignment 1: SQL Assignment, CMSC724, Fall 2024
 
 *The assignment is to be done by yourself.*
-
-*Keep in mind that this assignment has a Part 2 which is available on GradeScope.*
 
 The following assumes you have gone through PostgreSQL instructions and have ran some queries on the `university` database. 
 It also assumes you have cloned the git repository, and have done a `git pull` to download the directory `Assignment-1`. The files are:
@@ -52,4 +50,4 @@ You are also provided with a Python file `SQLTesting.py` for testing your answer
 Submit the `queries.py` file on Gradescope under Assignment 1. 
       
 ### Assignment Questions
-See `queries.py` file. There are 16 questions in there -- solving any 15 will get you full credit.
+See `queries.py` file. There are 20 questions in there -- solving any 18 will get you full credit.
