@@ -1,9 +1,9 @@
 ## Brief Setup Instructions 
 
-There are some more detailed instructions in the README.md files within `Assignment-?/` directories.
+There are more detailed setup instructions in `Assignment-0` and the other directories. The 424 Detailed Slides (http://www.cs.umd.edu/~amol/cmsc724-spring2022/424-All-Slides.pdf) go through SQL and MongoDB syntax both in sufficient detail if you need (we won't cover the entire syntax in class).
 
 1. Clone the GitHub Class Repository to get started (there are more detailed instructions in `Assignment-0` README):
-`git clone https://github.com/umddb/cmsc424-spring2024.git`
+`git clone https://github.com/umddb/cmsc724-fall2024.git`
 
 1. You can load the different database systems directly on your machines (easier on Linux or Mac), but to make things easier, we have provided a Docker Image with
 PostgreSQL, MongoDB, and Spark pre-loaded (we may update the image later if needed).
